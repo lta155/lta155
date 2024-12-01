@@ -33,6 +33,7 @@
     * Track 1,**Top3**,
     * Track 2,**Top2**.
 - [和鲸社区 工业缺陷识别创新挑战赛](https://www.heywhale.com/home/competition/6572c4e2fef3ff680622dddd/content/0): Computer vision competition of Heywhale,**Top 4**.
+- [首届全球数智教育创新大赛](https://diidea.pku.edu.cn/competition/)-[生命科学赛道｜天然产物的靶点活性预测](https://bohrium.dp.tech/competitions/1722107150?tab=introduce)：Ai4Biology, **Top 5**.
 - [第三届琶洲算法大赛-GLM法律行业大模型挑战赛道](https://tianchi.aliyun.com/competition/entrance/532221)：LLM competition of ZhiPu, Preliminary A-list,**Top 50**.
 
 ## GitHub Stats 📫
